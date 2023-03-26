@@ -85,4 +85,4 @@
 
 Для того чтобы создать новую ветку, нужно выполнить команду:
  
-    git brach <branchname>
+    git branch <branchname>
